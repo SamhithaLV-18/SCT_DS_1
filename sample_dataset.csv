@@ -1,0 +1,51 @@
+Country,Continent,Population (Millions),GDP (Billion USD),Life Expectancy,Year
+India,Asia,1380,3000,69.0,2020
+India,Asia,1385,3200,69.3,2021
+India,Asia,1390,3400,69.6,2022
+India,Asia,1395,3600,69.9,2023
+India,Asia,1400,3800,70.2,2024
+China,Asia,1410,17000,77.0,2020
+China,Asia,1415,17200,77.3,2021
+China,Asia,1420,17400,77.6,2022
+China,Asia,1425,17600,77.9,2023
+China,Asia,1430,17800,78.2,2024
+United States,North America,331,21000,78.0,2020
+United States,North America,336,21200,78.3,2021
+United States,North America,341,21400,78.6,2022
+United States,North America,346,21600,78.9,2023
+United States,North America,351,21800,79.2,2024
+Brazil,South America,212,2100,74.0,2020
+Brazil,South America,217,2300,74.3,2021
+Brazil,South America,222,2500,74.6,2022
+Brazil,South America,227,2700,74.9,2023
+Brazil,South America,232,2900,75.2,2024
+Germany,Europe,83,4000,80.0,2020
+Germany,Europe,88,4200,80.3,2021
+Germany,Europe,93,4400,80.6,2022
+Germany,Europe,98,4600,80.9,2023
+Germany,Europe,103,4800,81.2,2024
+Nigeria,Africa,206,450,61.0,2020
+Nigeria,Africa,211,650,61.3,2021
+Nigeria,Africa,216,850,61.6,2022
+Nigeria,Africa,221,1050,61.9,2023
+Nigeria,Africa,226,1250,62.2,2024
+Japan,Asia,126,4100,84.0,2020
+Japan,Asia,131,4300,84.3,2021
+Japan,Asia,136,4500,84.6,2022
+Japan,Asia,141,4700,84.9,2023
+Japan,Asia,146,4900,85.2,2024
+Australia,Oceania,25,1600,82.0,2020
+Australia,Oceania,30,1800,82.3,2021
+Australia,Oceania,35,2000,82.6,2022
+Australia,Oceania,40,2200,82.9,2023
+Australia,Oceania,45,2400,83.2,2024
+Canada,North America,38,2200,82.0,2020
+Canada,North America,43,2400,82.3,2021
+Canada,North America,48,2600,82.6,2022
+Canada,North America,53,2800,82.9,2023
+Canada,North America,58,3000,83.2,2024
+France,Europe,65,2800,81.0,2020
+France,Europe,70,3000,81.3,2021
+France,Europe,75,3200,81.6,2022
+France,Europe,80,3400,81.9,2023
+France,Europe,85,3600,82.2,2024
